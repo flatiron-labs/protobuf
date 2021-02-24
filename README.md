@@ -1,3 +1,5 @@
+** The reasoning for this fork is so that we can get access to the JSON support that is currently on the master branch of the official repo w/o having to depend on the master branch itself. Once the official repo cuts a release with the JSON support, we can delete this fork. **
+
 # protobuf-elixir
 
 [![Hex.pm](https://img.shields.io/hexpm/v/protobuf.svg)](https://hex.pm/packages/protobuf)
